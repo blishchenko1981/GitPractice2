@@ -7,5 +7,7 @@ public class LIstPractice {
 
 
         ArrayList<String> list = new ArrayList<>();
+
+        System.out.println("*************");
     }
 }

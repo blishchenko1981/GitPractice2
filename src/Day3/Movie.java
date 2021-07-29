@@ -1,5 +1,6 @@
 package Day3;
 
 public class Movie {
-   // 5 min
+   // 0min
+    // watching 10 more min
 }

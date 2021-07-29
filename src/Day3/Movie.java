@@ -9,5 +9,6 @@ public class Movie {
     // go to beach
     // go to field
     // go to jim
+    // go to restaurant
 
 }

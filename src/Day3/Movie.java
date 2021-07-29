@@ -7,6 +7,9 @@ public class Movie {
     //     // watching 5 more min
 // go to park
     // go to beach
+    // go to field
+    // go to jim
+    // go to restaurant
 
     // on master I gonna go home and sleep
 }

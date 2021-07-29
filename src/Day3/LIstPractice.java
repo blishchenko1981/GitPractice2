@@ -9,5 +9,6 @@ public class LIstPractice {
         ArrayList<String> list = new ArrayList<>();
 
         System.out.println("*************");
+        System.out.println(("1234567"));
     }
 }

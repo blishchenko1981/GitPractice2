@@ -6,5 +6,5 @@ public class Conflict {
 // This is my final version
     //I can change it here when I merged
 // This is a collection branch content
-
+// master changes on Conflict class
 }
